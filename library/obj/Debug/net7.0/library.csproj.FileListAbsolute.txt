@@ -1,0 +1,12 @@
+C:\dev\workspace2\github\dotnetsample\library\bin\Debug\net7.0\library.deps.json
+C:\dev\workspace2\github\dotnetsample\library\bin\Debug\net7.0\library.dll
+C:\dev\workspace2\github\dotnetsample\library\bin\Debug\net7.0\library.pdb
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.csproj.AssemblyReference.cache
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.AssemblyInfoInputs.cache
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.AssemblyInfo.cs
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.csproj.CoreCompileInputs.cache
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.dll
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\refint\library.dll
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\library.pdb
+C:\dev\workspace2\github\dotnetsample\library\obj\Debug\net7.0\ref\library.dll
